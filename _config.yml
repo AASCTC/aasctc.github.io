@@ -1,0 +1,11 @@
+# Site settings
+title: AASCTC Data Repository
+description: Central location of all metadata for AASCTC Open Science Cloud software
+url: https://aasctc.github.io # the base hostname & protocol for your site
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# Theme settings (applies if using a Jekyll theme)
+theme: minima
